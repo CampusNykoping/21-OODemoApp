@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODemo", "OODemo\OODemo.csproj", "{E0384443-C2E1-4F68-9DD9-864F6157EC7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismDemo", "PolymorphismDemo\PolymorphismDemo.csproj", "{B44EE7B3-2FD6-447E-AF93-B570E286A57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0384443-C2E1-4F68-9DD9-864F6157EC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0384443-C2E1-4F68-9DD9-864F6157EC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0384443-C2E1-4F68-9DD9-864F6157EC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0384443-C2E1-4F68-9DD9-864F6157EC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44EE7B3-2FD6-447E-AF93-B570E286A57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44EE7B3-2FD6-447E-AF93-B570E286A57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44EE7B3-2FD6-447E-AF93-B570E286A57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44EE7B3-2FD6-447E-AF93-B570E286A57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {161AA092-6E0E-4824-A00C-C1CB92D0AA3F}
+	EndGlobalSection
+EndGlobal
